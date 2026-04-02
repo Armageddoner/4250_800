@@ -195,4 +195,8 @@ E00763804 - 3/24/2026 I'm learning Continuous Integration.
 
 #00765108 - 3-24-26 I am learning integration
 
+<<<<<<< patch-14
+E00763804 - 3/24/2026 I'm learning Continuous Delivery.
+=======
 E00765108 - 3-31-26 I am learning software project management
+>>>>>>> main
